@@ -32,7 +32,7 @@ python main.py
 
 With your development server open you can now visit the landing page in your local browser.
 ```
-	localhost:5000/
+localhost:5000/
 ```
 
 ## CUSTOMIZE / ADDITIONAL
