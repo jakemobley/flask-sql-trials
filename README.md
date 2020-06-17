@@ -20,10 +20,9 @@ pip install pipenv
 ```
 From there you can check out this resource for some common setup items: https://docs.python-guide.org/dev/virtualenvs/ or just use whatever virtual environment you want.
 
-### Install dependencies 
+### Install Flask (if not using pipenv just pip install)
 ```
-pip3 install -r requirements.txt
-pip freeze > requirements.txt
+pipenv install flask
 ```
 
 ### Initialize Flask development server if you want
